@@ -5,17 +5,12 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quien soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola a quien este detras del monitor, yo soy Ricardo un explorer en LaunchX 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Me dedico a desarrollo de software para escritorio con .Net Framework, C#, VisualBasic y por supuesto SQL Server, aunque tambien conozco un poco de Python, JS, C++, HTML, CSS.
+Considero que conozco y me puedo "mover" de manera fluida en algunas de estas tecnologias pero no me concidero experto en ninguna, ya que siempre existira algo que desconozca y me encantaria aprenderlo.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me apaciona la tecnologia y como a evolucionado tan rapidamente desde que era pequeño 😄
 
